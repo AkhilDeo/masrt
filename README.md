@@ -1,6 +1,6 @@
 # Mobile Application for Surgical Robot Teleoperation
 
-Authors: Deo, Akhil; Kazanzides, Peter
+##### Source code for **[Feasibility of Mobile Application for Surgical Robot Teleoperation](https://doi.org/10.31256/HSMR2023.63)**
 
 ## 1. Introduction
 
