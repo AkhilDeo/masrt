@@ -1,6 +1,6 @@
 # Mobile Application for Surgical Robot Teleoperation
 
-Author: [Akhil Deo](https://www.github.com/akhildeo)
+Authors: Deo, Akhil; Kazanzides, Peter
 
 ## 1. Introduction
 
